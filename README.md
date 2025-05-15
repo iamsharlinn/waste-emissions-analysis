@@ -35,8 +35,8 @@ To explore real-world CO₂e emissions from municipal waste facilities and visua
 
 ## 🗺️ Sample Visuals
 
-![Top Emitters Bar Chart](INSERT_IMAGE_LINK_HERE)  
-*(Replace with actual screenshots once uploaded)*
+[Top Emitters Bar Chart](top10states.png)  
+
 
 ---
 
