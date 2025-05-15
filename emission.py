@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 15 02:18:06 2025
-
-@author: sharlin
-"""
-
 import pandas as pd
 
 file_path = '/Users/sharlin/Desktop/waste_emission/flight.xls'  
