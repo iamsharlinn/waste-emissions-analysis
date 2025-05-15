@@ -27,7 +27,7 @@ To explore real-world CO₂e emissions from municipal waste facilities and visua
 ## 📈 Key Insights
 
 - The top 10 waste facilities emit **hundreds of thousands of metric tons** of CO₂e annually.
-- **New Jersey and California** lead in landfill-related emissions among reported states.
+- **New York and Massachusetts** lead in landfill-related emissions among reported states.
 - A 75% methane capture efficiency could reduce emissions by over **1.2 million metric tons**.
 - Facility-level mapping reveals high-impact zones for potential climate intervention.
 
